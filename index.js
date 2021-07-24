@@ -1,1 +1,3 @@
-console.log('hellow')
+const marker = require('./dist')
+
+module.exports={marker}
