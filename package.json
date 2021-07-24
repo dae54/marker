@@ -1,7 +1,7 @@
 {
     "name": "@dae54/marker",
-    "version": "1.0.2",
-    "description": "gives color to your terminal logs",
+    "version": "1.0.3",
+    "description": "Terminal string basic coloring done easy. Supports textual highlighting and coloring",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
