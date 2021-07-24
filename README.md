@@ -1,5 +1,5 @@
 # MARKER
-### Give your terminal logs a beaeutiful color (both textual color and highlighter)
+### Give your terminal logs a beautiful color (both textual color and textual highlighting)
 
 # Installation
     $ npm install --save-dev @dae54/marker
@@ -16,7 +16,7 @@ marker.highlight('Hello World','green')
 
 # API
 
-## Objects
+## Available Methods
 `marker.color` 
 
 Gives font color to terminal logs. 
