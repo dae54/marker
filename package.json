@@ -1,0 +1,19 @@
+{
+    "name": "@dae54/marker",
+    "version": "1.0.0",
+    "description": "gives color to your terminal logs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dae54/marker.git"
+    },
+    "author": "dae54",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dae54/marker/issues"
+    },
+    "homepage": "https://github.com/dae54/marker#readme"
+}
