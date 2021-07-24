@@ -1,10 +1,8 @@
-const exec = require("util").promisify(require("child_process").exec);
-
 module.exports = {
     /**
      * 
      * @param {String} message message to log on console
-     * @param {String} color text or highlight paint color [red]
+     * @param {String} color text color
      * @augments {color} [black,red,green,yellow,blue,purple,lightblue,white]
      * @example const marker = require('@dae54/marker')
      * marker.mark('test text','red')
@@ -39,6 +37,14 @@ module.exports = {
     }
     return console.log(clr, message);
   },
+   /**
+     * 
+     * @param {String} message message to log on console
+     * @param {String} color highlight paint color
+     * @augments {color} [black,red,green,yellow,blue,purple,lightblue,white]
+     * @example const marker = require('@dae54/marker')
+     * marker.mark('test text','red')
+     */
   highlight: (message, color) => {
     let clr = "\x1b[37m%s\x1b[0m";
 

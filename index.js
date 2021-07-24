@@ -1,3 +1,2 @@
-const marker = require('./dist')
-
-module.exports={marker}
+const {color,highlight} = require('./dist')
+module.exports={color,highlight}
