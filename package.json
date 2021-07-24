@@ -1,6 +1,6 @@
 {
     "name": "@dae54/marker",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Terminal string basic coloring done easy. Supports textual highlighting and coloring",
     "main": "index.js",
     "scripts": {
@@ -15,5 +15,16 @@
     "bugs": {
         "url": "https://github.com/dae54/marker/issues"
     },
-    "homepage": "https://github.com/dae54/marker#readme"
+    "homepage": "https://github.com/dae54/marker#readme",
+    "keywords": [
+        "terminal",
+        "colors",
+        "color",
+        "colour",
+        "colours",
+        "cli",
+        "command line",
+        "paint",
+        "highlight"
+    ]
 }
