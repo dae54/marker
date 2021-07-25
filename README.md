@@ -44,6 +44,10 @@ Parameters: `Message` [String], `Color` [String] (black, red, green, yellow, blu
 
 
 
+# Feature Updates
+- For any feature updates, submit them [here](https://github.com/dae54/marker/projects/1)
+
+
 # Issues
 - For any issues, submit them [here](https://github.com/dae54/marker/issues)
 
