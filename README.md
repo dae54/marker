@@ -2,7 +2,7 @@
 ### Give your terminal logs a beautiful color (both textual color and textual highlighting)
 
 # Installation
-    $ npm install --save-dev @dae54/marker
+    $ npm install @dae54/marker
 
 # Usage
 

@@ -1,6 +1,6 @@
 {
     "name": "@dae54/marker",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Terminal string basic coloring done easy. Supports textual highlighting and coloring",
     "main": "index.js",
     "scripts": {
